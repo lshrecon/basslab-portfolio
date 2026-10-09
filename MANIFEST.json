@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-09",
+  "kind": "review-source-excerpts",
+  "project": "basslab",
+  "source_files": [
+    {
+      "path": "bridge/practice-server.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/practice-server.cjs",
+      "source_sha256": "b3db216fdd12c4c658d2dee59e914368491cb4e2fd7fe499cfce5a092a91a910",
+      "sha256": "b3db216fdd12c4c658d2dee59e914368491cb4e2fd7fe499cfce5a092a91a910",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/practice-controller.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/practice-controller.cjs",
+      "source_sha256": "a0c218df2af175483c20f48f4a3a958b1441fad5f034953ca462aece360ecee6",
+      "sha256": "a0c218df2af175483c20f48f4a3a958b1441fad5f034953ca462aece360ecee6",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/tasks.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/tasks.cjs",
+      "source_sha256": "4bb6487450539cadf8d3008bd331871a394d976e5ec5a3b4758851c4115a50ca",
+      "sha256": "4bb6487450539cadf8d3008bd331871a394d976e5ec5a3b4758851c4115a50ca",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/shutdown.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/shutdown.cjs",
+      "source_sha256": "f17eb4bb8cfbf04f466ac2e2db42e5af5f4dbc9d006293cbadc9d8784add3afc",
+      "sha256": "f17eb4bb8cfbf04f466ac2e2db42e5af5f4dbc9d006293cbadc9d8784add3afc",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/ui-lifecycle.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/ui-lifecycle.cjs",
+      "source_sha256": "022028c342673e31cd9c2d1341e01c96b1febf52dd110065b71842a43d8926aa",
+      "sha256": "022028c342673e31cd9c2d1341e01c96b1febf52dd110065b71842a43d8926aa",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/engine-config.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/engine-config.cjs",
+      "source_sha256": "69927b09757937b68f0d98fb78f3794b9264e008f34b2b860c0918e09646c438",
+      "sha256": "69927b09757937b68f0d98fb78f3794b9264e008f34b2b860c0918e09646c438",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/click-results.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/click-results.cjs",
+      "source_sha256": "f90618b02700e291434d357a1fa8531b02f6fa1033733066bdef1b7394b09d8b",
+      "sha256": "f90618b02700e291434d357a1fa8531b02f6fa1033733066bdef1b7394b09d8b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/portable-state.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/portable-state.cjs",
+      "source_sha256": "ba108d15cab61b4f80effba4f4b581e1ca3c0344b196f11c118e6e1123a75516",
+      "sha256": "ba108d15cab61b4f80effba4f4b581e1ca3c0344b196f11c118e6e1123a75516",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/session-store.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/session-store.cjs",
+      "source_sha256": "be619cf309671747f8ece746f093824cbb051f6329cf9da0bf116c815c187dd2",
+      "sha256": "be619cf309671747f8ece746f093824cbb051f6329cf9da0bf116c815c187dd2",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "bridge/participant-store.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/bridge/participant-store.cjs",
+      "source_sha256": "bf6b2f1898ebd1617060d8b5ffd8d78563550e82a5bdfe20e23528bfa5302497",
+      "sha256": "bf6b2f1898ebd1617060d8b5ffd8d78563550e82a5bdfe20e23528bfa5302497",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "click/model.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/click/model.cjs",
+      "source_sha256": "3e5dd90dc48e12931cb82a7b76501b0e45460a8c42099a7289fd3d07931507a5",
+      "sha256": "3e5dd90dc48e12931cb82a7b76501b0e45460a8c42099a7289fd3d07931507a5",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "click/config.json",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/click/config.json",
+      "source_sha256": "9fafbda77439383cbac1972f582449a7a15dfcb96c8bf65a73d7f1af455aa77b",
+      "sha256": "9fafbda77439383cbac1972f582449a7a15dfcb96c8bf65a73d7f1af455aa77b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "click/playback.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/click/playback.cjs",
+      "source_sha256": "648c77b8a128d13972e7f2602841dce7f5ff484d25d80565e1adfb5d1cb98f9c",
+      "sha256": "648c77b8a128d13972e7f2602841dce7f5ff484d25d80565e1adfb5d1cb98f9c",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "click/calibrate.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/click/calibrate.cjs",
+      "source_sha256": "97826d3f506a815f644d443440dfea8713e8642b77ff1ba24d300877314ed8ab",
+      "sha256": "97826d3f506a815f644d443440dfea8713e8642b77ff1ba24d300877314ed8ab",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/00-globals.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/00-globals.jsx",
+      "source_sha256": "be1edc70991386f6c283b0b6bf958debc9bd5c28afce788a2fbf7dba7c1d53c5",
+      "sha256": "be1edc70991386f6c283b0b6bf958debc9bd5c28afce788a2fbf7dba7c1d53c5",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/10-ObservationModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/10-ObservationModel.jsx",
+      "source_sha256": "bfc43f0ffadbb6bbd93fd6805322a3c6823bb60f824b8c6f114a19611d96c847",
+      "sha256": "bfc43f0ffadbb6bbd93fd6805322a3c6823bb60f824b8c6f114a19611d96c847",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/11-ClickModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/11-ClickModel.jsx",
+      "source_sha256": "356cfc76cd9c854b183b68dedfaf344f69cfb0c86e86815229a64f1881270c4f",
+      "sha256": "356cfc76cd9c854b183b68dedfaf344f69cfb0c86e86815229a64f1881270c4f",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/12-PortableModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/12-PortableModel.jsx",
+      "source_sha256": "af8c4ec1886ef3a01f35729b2c91658a1e836975bc098294b136f4f546b0c532",
+      "sha256": "af8c4ec1886ef3a01f35729b2c91658a1e836975bc098294b136f4f546b0c532",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/13-ProgramShutdown.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/13-ProgramShutdown.jsx",
+      "source_sha256": "b9de001c40a7de1b3a21e8efb75b2bdfad85386370bf948dd28dbb825726fa3b",
+      "sha256": "b9de001c40a7de1b3a21e8efb75b2bdfad85386370bf948dd28dbb825726fa3b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/14-PlaybackPosition.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/14-PlaybackPosition.jsx",
+      "source_sha256": "c6de645e993c96db8209114dcd9912d2e20d41b24dc2218d583e8161b388aa65",
+      "sha256": "c6de645e993c96db8209114dcd9912d2e20d41b24dc2218d583e8161b388aa65",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/15-UnclearSound.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/15-UnclearSound.jsx",
+      "source_sha256": "b874771cbb8ad3c4652ffc0a7de85f4bff2df69dc37719acc370a729af781386",
+      "sha256": "b874771cbb8ad3c4652ffc0a7de85f4bff2df69dc37719acc370a729af781386",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/16-ResultScreenModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/16-ResultScreenModel.jsx",
+      "source_sha256": "aeb6b45bd1bcbbff793482616d33eee0f5e533d0e21d6012d92d2fb9b079ae72",
+      "sha256": "aeb6b45bd1bcbbff793482616d33eee0f5e533d0e21d6012d92d2fb9b079ae72",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/17-GuidedSessionModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/17-GuidedSessionModel.jsx",
+      "source_sha256": "2b1267fcdfc4a2d842344bd23273656e87e5d244fd6b9074625ed247dc4f51f8",
+      "sha256": "2b1267fcdfc4a2d842344bd23273656e87e5d244fd6b9074625ed247dc4f51f8",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/18-ParticipantModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/18-ParticipantModel.jsx",
+      "source_sha256": "369aacc19f928ff2c45c6c64321908bb9cf856acdca858ffbc45f0d7242f6444",
+      "sha256": "369aacc19f928ff2c45c6c64321908bb9cf856acdca858ffbc45f0d7242f6444",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/19-TeacherTaskModel.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/19-TeacherTaskModel.jsx",
+      "source_sha256": "aa62383ec0dec002afaf2c11f2a217cc9301cb78342c845aa4f92c40b3592be0",
+      "sha256": "aa62383ec0dec002afaf2c11f2a217cc9301cb78342c845aa4f92c40b3592be0",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/60-ObservationResults.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/60-ObservationResults.jsx",
+      "source_sha256": "447e1e2cfaabc146398b660c82710c42107f0bc1022d680710d59c53371f734a",
+      "sha256": "447e1e2cfaabc146398b660c82710c42107f0bc1022d680710d59c53371f734a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/64-DeviceSettings.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/64-DeviceSettings.jsx",
+      "source_sha256": "5b895bfcf8b6cc7d672c1aeed6816cf3e31b1b761a2e98e29d08ea63bd9d3a6e",
+      "sha256": "5b895bfcf8b6cc7d672c1aeed6816cf3e31b1b761a2e98e29d08ea63bd9d3a6e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/65-PracticeFlow.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/65-PracticeFlow.jsx",
+      "source_sha256": "cbbe7002f16e7f1558c8de9b9ceb63947b290af489a583b8a9057a389ed7857c",
+      "sha256": "cbbe7002f16e7f1558c8de9b9ceb63947b290af489a583b8a9057a389ed7857c",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/66-GuidedSession.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/66-GuidedSession.jsx",
+      "source_sha256": "ed3672b87677e3d0a015c632dd953f9dcbbaed49e58e6f447a832928e16dd248",
+      "sha256": "ed3672b87677e3d0a015c632dd953f9dcbbaed49e58e6f447a832928e16dd248",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/67-ParticipantProfile.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/67-ParticipantProfile.jsx",
+      "source_sha256": "986eb810f0fca4001d4b9883106502718ccc43776c06f54de19033703c0ed2a1",
+      "sha256": "986eb810f0fca4001d4b9883106502718ccc43776c06f54de19033703c0ed2a1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/70-App.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/70-App.jsx",
+      "source_sha256": "eef08b2735266bfd3294a3040d3f5664aabad73672ffe9bc767ffa412355cba9",
+      "sha256": "eef08b2735266bfd3294a3040d3f5664aabad73672ffe9bc767ffa412355cba9",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/src/99-root.jsx",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/src/99-root.jsx",
+      "source_sha256": "6a714c21ccb17d221d6417b8827c17824be2f540cb094defb00bb95bc269b1a2",
+      "sha256": "6a714c21ccb17d221d6417b8827c17824be2f540cb094defb00bb95bc269b1a2",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/signal-pipeline.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/signal-pipeline.cjs",
+      "source_sha256": "ad269e44b832f94ece450760c695aa604b93b1053772d876036634e50b68b198",
+      "sha256": "ad269e44b832f94ece450760c695aa604b93b1053772d876036634e50b68b198",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/energy-knee.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/energy-knee.cjs",
+      "source_sha256": "17779f9587d8127309e06c7fa1115d20751471e9c76e81d921835da8052b221a",
+      "sha256": "17779f9587d8127309e06c7fa1115d20751471e9c76e81d921835da8052b221a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/onset-states.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/onset-states.cjs",
+      "source_sha256": "48a08f5be3421554421dba48feb39c896cda9e927b64daab6710789d8f5ee1da",
+      "sha256": "48a08f5be3421554421dba48feb39c896cda9e927b64daab6710789d8f5ee1da",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/evenness-v2.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/evenness-v2.cjs",
+      "source_sha256": "f0684d6ebc98c07d6bbc9361f0450afc1ad95c0cb929a88899853e6a7ac0f4f1",
+      "sha256": "f0684d6ebc98c07d6bbc9361f0450afc1ad95c0cb929a88899853e6a7ac0f4f1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/remaining-component.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/remaining-component.cjs",
+      "source_sha256": "33f0d5276eae70bb5088aa1bd43f00add3854a44c098381c35c93622c4475c47",
+      "sha256": "33f0d5276eae70bb5088aa1bd43f00add3854a44c098381c35c93622c4475c47",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/frozen-chain.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/frozen-chain.cjs",
+      "source_sha256": "9d2f947d8c6fb7aaf1dffec4c0e51d587160754d53ef730329c894a45c49e080",
+      "sha256": "9d2f947d8c6fb7aaf1dffec4c0e51d587160754d53ef730329c894a45c49e080",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/settings.json",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/settings.json",
+      "source_sha256": "808d6c8e9733d050cae127beab857a110354a0378b3939f93b0444507d03fa1a",
+      "sha256": "808d6c8e9733d050cae127beab857a110354a0378b3939f93b0444507d03fa1a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/frozen/practical-mpm.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/frozen/practical-mpm.cjs",
+      "source_sha256": "93fa1e4c8574cdbbfcbfdf37bbccdb28a84e21ebe648e01bf4071643e13c61f9",
+      "sha256": "93fa1e4c8574cdbbfcbfdf37bbccdb28a84e21ebe648e01bf4071643e13c61f9",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/frozen/evidence-labels.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/frozen/evidence-labels.cjs",
+      "source_sha256": "92754df108fb8a16a7519067874a65a744d8312c74efbec0bf2fda6cf4aa8255",
+      "sha256": "92754df108fb8a16a7519067874a65a744d8312c74efbec0bf2fda6cf4aa8255",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "analysis/frozen/pulse-onset-r2.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/analysis/frozen/pulse-onset-r2.cjs",
+      "source_sha256": "979a2fc87cf106e822763b3de883680166a756e880ceda0b032c7998cb0b9a1b",
+      "sha256": "979a2fc87cf106e822763b3de883680166a756e880ceda0b032c7998cb0b9a1b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "source/analyze-practice-worker.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/source/analyze-practice-worker.cjs",
+      "source_sha256": "e0a8e6fbda4fceaed8e269c7825b23d1489c984ed632fe233ab2bfbc71a763cd",
+      "sha256": "e0a8e6fbda4fceaed8e269c7825b23d1489c984ed632fe233ab2bfbc71a763cd",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "source/derive-results.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/source/derive-results.cjs",
+      "source_sha256": "2ec21ef4132b8386321b5a7eccc6f9d3df8e9b066bd506f73a9bbfa754c43913",
+      "sha256": "2ec21ef4132b8386321b5a7eccc6f9d3df8e9b066bd506f73a9bbfa754c43913",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "source/input-catalogue.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/source/input-catalogue.cjs",
+      "source_sha256": "18411cbab7c78831d0a38c9151a61dc2241e3f7624fec67568d0f278f96124ac",
+      "sha256": "18411cbab7c78831d0a38c9151a61dc2241e3f7624fec67568d0f278f96124ac",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/practice-engine.cpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/practice-engine.cpp",
+      "source_sha256": "f9a6006dbfba3cf9ed86f512a0ab3024bf33e22294862faa5dbeb2f35f421680",
+      "sha256": "f9a6006dbfba3cf9ed86f512a0ab3024bf33e22294862faa5dbeb2f35f421680",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/engine-core.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/engine-core.hpp",
+      "source_sha256": "81b1a06ae7b133951b0af30ab466bd21cd1915c7830ad62cc094579216c709b0",
+      "sha256": "81b1a06ae7b133951b0af30ab466bd21cd1915c7830ad62cc094579216c709b0",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/practice-core.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/practice-core.hpp",
+      "source_sha256": "fcaeb4bf9c7b5359c74c97cbd58877e5737b8a2d85197d15b8b47d3d129e7187",
+      "sha256": "fcaeb4bf9c7b5359c74c97cbd58877e5737b8a2d85197d15b8b47d3d129e7187",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/first-note.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/first-note.hpp",
+      "source_sha256": "c197ae30b77bfe814fd668c7a39cb9064a06b3da918a0c8d998392a1359faa0e",
+      "sha256": "c197ae30b77bfe814fd668c7a39cb9064a06b3da918a0c8d998392a1359faa0e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/guided-paths.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/guided-paths.hpp",
+      "source_sha256": "7d40361dd75367b3635afb7640ff10f9beace1525df56619bdf42b731ae98a5d",
+      "sha256": "7d40361dd75367b3635afb7640ff10f9beace1525df56619bdf42b731ae98a5d",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/reservation-policy.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/reservation-policy.hpp",
+      "source_sha256": "87eb139663edfc44f81c74f43e28df6b34e82a61557a3770a2615b46d884d712",
+      "sha256": "87eb139663edfc44f81c74f43e28df6b34e82a61557a3770a2615b46d884d712",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/reservation-records.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/reservation-records.hpp",
+      "source_sha256": "c793fe16da5b2b0d23a096567bf365e9fdf9bf65717249aadacbfd4f41cf95f8",
+      "sha256": "c793fe16da5b2b0d23a096567bf365e9fdf9bf65717249aadacbfd4f41cf95f8",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "native/vendor/json.hpp",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/native/vendor/json.hpp",
+      "source_sha256": "aaf127c04cb31c406e5b04a63f1ae89369fccde6d8fa7cdda1ed4f32dfc5de63",
+      "sha256": "aaf127c04cb31c406e5b04a63f1ae89369fccde6d8fa7cdda1ed4f32dfc5de63",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/protocol-utf8.test.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/tests/protocol-utf8.test.cjs",
+      "source_sha256": "d3e4301760a030d75f682b268ab7d4aac7a0618339305527072ef2895f116e70",
+      "sha256": "d3e4301760a030d75f682b268ab7d4aac7a0618339305527072ef2895f116e70",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/click-timing.test.cjs",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/tests/click-timing.test.cjs",
+      "source_sha256": "84e26c955b8c65da1cb7d83c037931ed2771872423e2f16c01ddea14e35f0e38",
+      "sha256": "84e26c955b8c65da1cb7d83c037931ed2771872423e2f16c01ddea14e35f0e38",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "ANALYSIS-FREEZE.json",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/ANALYSIS-FREEZE.json",
+      "source_sha256": "8d35c7704b833f87e2ba55861c7e2a58c0214ca653161c15a3d6d4840d6e211e",
+      "sha256": "8d35c7704b833f87e2ba55861c7e2a58c0214ca653161c15a3d6d4840d6e211e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "BENCHMARK-DECISION.json",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/BENCHMARK-DECISION.json",
+      "source_sha256": "834f47ea2137ee9dad1d1e2b0ae56b0d78e78337c6d4a1352ce8588a5d45fb28",
+      "sha256": "834f47ea2137ee9dad1d1e2b0ae56b0d78e78337c6d4a1352ce8588a5d45fb28",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/styles.css",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/styles.css",
+      "source_sha256": "af7815d4e1bc6343cd03e42f2f109a8955cc02955ef13bceb6fb845cb7893d39",
+      "sha256": "af7815d4e1bc6343cd03e42f2f109a8955cc02955ef13bceb6fb845cb7893d39",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "app/REACT-LICENSE.txt",
+      "source": "basslab/validation/package-v26-repair-validation-20261008/app/REACT-LICENSE.txt",
+      "source_sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+      "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+      "transformation": "unchanged"
+    }
+  ],
+  "readme_sha256": "1f1f1a298e0aad5d5a4dcd66661204c690dbaf10e598ba7bcd5149e60cb9e5aa",
+  "excluded": "original data, real recordings, credentials, binaries, environments, private verification logs",
+  "scope": "Existing verification is described in README. This manifest identifies distributed files; it is not an execution success claim."
+}

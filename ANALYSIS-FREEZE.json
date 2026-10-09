@@ -1,0 +1,75 @@
+{
+  "schema": "portable-v13-analysis-freeze-v1",
+  "createdAt": "2026-09-30T14:53:55.199Z",
+  "decisionSha256": "834f47ea2137ee9dad1d1e2b0ae56b0d78e78337c6d4a1352ce8588a5d45fb28",
+  "files": [
+    {
+      "file": "analysis/energy-knee.cjs",
+      "bytes": 5739,
+      "sha256": "17779f9587d8127309e06c7fa1115d20751471e9c76e81d921835da8052b221a"
+    },
+    {
+      "file": "analysis/onset-states.cjs",
+      "bytes": 3694,
+      "sha256": "48a08f5be3421554421dba48feb39c896cda9e927b64daab6710789d8f5ee1da"
+    },
+    {
+      "file": "analysis/evenness-v2.cjs",
+      "bytes": 20271,
+      "sha256": "f0684d6ebc98c07d6bbc9361f0450afc1ad95c0cb929a88899853e6a7ac0f4f1"
+    },
+    {
+      "file": "analysis/remaining-component.cjs",
+      "bytes": 6922,
+      "sha256": "33f0d5276eae70bb5088aa1bd43f00add3854a44c098381c35c93622c4475c47"
+    },
+    {
+      "file": "analysis/settings.json",
+      "bytes": 2269,
+      "sha256": "808d6c8e9733d050cae127beab857a110354a0378b3939f93b0444507d03fa1a"
+    },
+    {
+      "file": "analysis/signal-pipeline.cjs",
+      "bytes": 2995,
+      "sha256": "ad269e44b832f94ece450760c695aa604b93b1053772d876036634e50b68b198"
+    },
+    {
+      "file": "analysis/frozen-chain.cjs",
+      "bytes": 1862,
+      "sha256": "9d2f947d8c6fb7aaf1dffec4c0e51d587160754d53ef730329c894a45c49e080"
+    },
+    {
+      "file": "analysis/frozen/practical-mpm.cjs",
+      "bytes": 23533,
+      "sha256": "93fa1e4c8574cdbbfcbfdf37bbccdb28a84e21ebe648e01bf4071643e13c61f9"
+    },
+    {
+      "file": "analysis/frozen/evidence-labels.cjs",
+      "bytes": 12270,
+      "sha256": "92754df108fb8a16a7519067874a65a744d8312c74efbec0bf2fda6cf4aa8255"
+    },
+    {
+      "file": "analysis/frozen/pulse-onset-r2.cjs",
+      "bytes": 20951,
+      "sha256": "979a2fc87cf106e822763b3de883680166a756e880ceda0b032c7998cb0b9a1b"
+    },
+    {
+      "file": "source/input-catalogue.cjs",
+      "bytes": 1216,
+      "sha256": "18411cbab7c78831d0a38c9151a61dc2241e3f7624fec67568d0f278f96124ac"
+    },
+    {
+      "file": "source/analyze-practice-worker.cjs",
+      "bytes": 7638,
+      "sha256": "e0a8e6fbda4fceaed8e269c7825b23d1489c984ed632fe233ab2bfbc71a763cd"
+    },
+    {
+      "file": "source/derive-results.cjs",
+      "bytes": 10778,
+      "sha256": "2ec21ef4132b8386321b5a7eccc6f9d3df8e9b066bd506f73a9bbfa754c43913"
+    }
+  ],
+  "estimatorAndThresholdChanges": 0,
+  "detectorExecutionsDuringV13": 0,
+  "automaticAnalysisRetries": 0
+}

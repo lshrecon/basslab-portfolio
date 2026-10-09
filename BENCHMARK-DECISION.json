@@ -1,0 +1,49 @@
+{
+  "schema": "design-v2-benchmark-decision-v1",
+  "createdAt": "2026-09-30T11:11:28.180Z",
+  "schemeId": "b-shift-3ms",
+  "purpose": "provisional agreement classification for observation; not validated timing accuracy",
+  "selectionData": {
+    "bytes": 14765,
+    "sha256": "2fcb5032646459e2b808e4059909569146e8894d2fdeeb040c04b6dcdd2715e7",
+    "sourceArtifact": "TRAINING-SELECTION.json"
+  },
+  "heldOutData": {
+    "bytes": 802399,
+    "sha256": "f3b46b0c1722e67875d456b6dd100a95cf4fca03d4d4aaeb9e0bfedd5ff01910",
+    "sourceArtifact": "METRICS-R1.json"
+  },
+  "proposal": {
+    "bytes": 7243,
+    "sha256": "830fea9e46211ab1f54458120ee69531b536f8646f2cc28337ab881ce7509434",
+    "sourceArtifact": "DECISION-PROPOSAL-R1.json"
+  },
+  "rawCaseScores": {
+    "bytes": 1533325,
+    "sha256": "f2437fcd058bb3efc2a946460d33f6e7e1630283850bcbad39066d45559a04ee",
+    "sourceArtifact": "CASE-SCORES.json"
+  },
+  "threeGatesPass": false,
+  "gates": {
+    "cycleError": false,
+    "centeredP95": false,
+    "wrongAgreement": false
+  },
+  "measured": {
+    "cycleErrorUpper": 0.2584954062051782,
+    "centeredP95Ms": 84.13832199546484,
+    "wrongAgreement": 0.19444444444444445
+  },
+  "referenceBandMs": null,
+  "evidenceId": "design-v2-benchmark-20260930-r1",
+  "showBand": false,
+  "correctDisplayedR2Time": false,
+  "comparisonOnlyKneeCorrectionMs": 2.76,
+  "criteria": "Only the three predeclared directive thresholds. No extra 20-group threshold.",
+  "limitations": [
+    "conditional on spliced fixed-source audio",
+    "includes candidate correspondence errors near artificial preceding-tail boundary",
+    "six heldout source groups; not general live-play evidence",
+    "agreement does not imply correct onset"
+  ]
+}

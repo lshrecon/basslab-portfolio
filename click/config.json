@@ -1,0 +1,48 @@
+{
+  "schema": "basslab-click-anchor-config-v12",
+  "version": "click-anchor-20260930-v1",
+  "sampleRate": 44100,
+  "kFrames": 8842,
+  "sourceDate": "2026-09-20",
+  "decisionDate": "2026-09-30",
+  "source": "Five stored 2026-09-20 calibration loopbacks; resource correlation onset minus actualRenderFrame",
+  "sourceObservedOffsetsFrames": [
+    8777,
+    8783,
+    8909,
+    8777,
+    8911
+  ],
+  "sourceEngine": "basslab-assembly-2 native practice-engine.cpp, 2026-09-20 CAL path",
+  "targetEngine": "basslab-practice-v13-portable-engine-v1",
+  "validatedForThisEngine": false,
+  "calibrationStatus": "이 엔진에서는 다시 재지 않음",
+  "agreementSchemeId": "b-shift-3ms",
+  "timePriority": [
+    "agreement raw r2",
+    "raw r2",
+    "raw knee",
+    "rhoTime"
+  ],
+  "tiePolicy": "nearest slot; exact slot-distance tie goes to earlier slot; candidate collision tie goes to earlier time then source order",
+  "boundaryPolicy": "half adjacent slot interval, inclusive at equality; never shift an extra note to its second-nearest slot",
+  "missingActualFrame": "unknown inside saved range makes anchor unavailable; demonstrably future unsubmitted rows are unrecorded; never substitute requestedCaptureFrame for h",
+  "interruptedRecording": "slots at/after saved PCM end are unrecorded, excluded from missing-note denominator; retain plannedTotalSlots and unrecordedSlots",
+  "nonzeroPcmFirstFrame": "unsupported until coordinate mapping is established; anchor unavailable",
+  "referenceBandsMs": [
+    20,
+    40
+  ],
+  "referenceBandsAreEstimatorAccuracy": false,
+  "nearMeanMs": 10,
+  "displayRoundingMs": 5,
+  "provisional": true,
+  "limitations": [
+    "K has not been measured on this v2 engine.",
+    "Raw r2/knee/rho timing is not validated physical onset.",
+    "Monitoring route can change the audible self-signal delay.",
+    "One-period timing errors can cross reference-band boundaries.",
+    "Near-half-interval deviations have ambiguous note correspondence."
+  ],
+  "slotPlanPolicy": "No implicit 32 default. Task slots define an explicit plannedNoteCount (1..256) on new practice requests and saved run plans; retain legacy explicit run/task frame mappings. Only actualRenderFrame determines h; guided 16-step version may use explicit practiceClickCount=16."
+}
